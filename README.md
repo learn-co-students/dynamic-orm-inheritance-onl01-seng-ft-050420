@@ -21,7 +21,7 @@ our program.
 
 In this repo, in the `lib` directory, you'll see the `interactive_record.rb`
 file. Open it up and take a look.
-
+ 
 You'll see that the `InteractiveRecord` class contains almost all of the code
 responsible for communicating between our Ruby program and our database. All of
 the methods defined there are abstract––they do not reference explicit class or
